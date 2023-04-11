@@ -91,3 +91,71 @@ footer{
     left: 0px;
 
 }
+
+.container1{
+
+    border-radius: 15px;
+    box-shadow: 1px 1px 20px white;
+    text-align: center;
+    color: white;
+    width: 90%;
+    background-color: rgba(18,23,68,1);
+    padding: 10px;
+    
+  
+}
+.container1 p{
+
+    font-size: 17px;
+
+
+}
+
+/* .container1 img{
+
+    height: 280px;
+    width: 350px;
+
+} */
+
+.b1{
+/*     
+    border: solid red 2px; */
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(18,23,68,1) 64%);
+    background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(18,23,68,1) 64%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(18,23,68,1) 64%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#121744",GradientType=1);
+
+}
+
+header{
+
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: hollow;
+
+}
+
+a{
+
+    /* border: solid red 2px; */
+    display: flex;
+    font-family: hollow;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 25px;
+    width: 5%;
+
+}
+
+
+a:hover{
+
+    background-color: rgb(61, 31, 194);
+
+}
+
