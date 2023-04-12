@@ -89,6 +89,7 @@ footer{
     width: 100%;
     text-align: center;
     left: 0px;
+    color: white;
 
 }
 
@@ -138,7 +139,8 @@ header{
 
 }
 
-a{
+
+.container1 a{
 
     /* border: solid red 2px; */
     display: flex;
@@ -152,10 +154,41 @@ a{
 
 }
 
+footer a{
 
-a:hover{
+    border-radius: 4px;
+    text-decoration: none;
+    width: auto;
+    text-decoration: none;
+    color: white;
+
+}
+
+footer a:hover{
 
     background-color: rgb(61, 31, 194);
 
 }
+
+.container1 a:hover{
+
+    background-color: rgb(61, 31, 194);
+
+}
+
+table{
+
+    margin: auto;
+    border-collapse: collapse;
+
+}
+
+tr,th,td{
+
+    border-radius: 15px;
+    border: solid black;
+    padding: 9px;
+
+}
+
 
