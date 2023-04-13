@@ -1,3 +1,33 @@
+@media (max-width: 1175px) {
+
+  body{
+
+    background-image: url(../img/fundo\ responsivo.jpg);
+ }
+
+ .princi{
+
+  width: 98%;
+
+}
+
+.baixo{
+
+  /* border: solid red 2px; */
+ width: 98%;
+
+ }
+
+  
+}
+
+
+
+
+
+
+
+
 @media (max-width: 720px) {
 
     body{
@@ -18,4 +48,59 @@
       flex-basis: auto;
       margin-top: 20px;
    }
+
+   .baixo{
+
+    /* border: solid red 2px; */
+   width: 98%;
+
+   }
+
+   table{
+
+    /* border: solid red 2px; */
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+}
+.iselda{
+
+  width: 98%;
+
+}
+
+.comedor{
+
+  width: 98%;
+
+}
+
+.lemm{
+
+  width: 98%;
+
+}
+
+.salubra{
+
+  width: 98%;
+
+}
+
+.sly{
+
+  width: 98%;
+
+}
+
+.princi{
+
+  width: 98%;
+
+}
+
+
+   
+
+
   }
